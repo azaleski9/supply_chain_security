@@ -1,4 +1,4 @@
-ame: Generate SBOM Report with Syft
+name: Generate SBOM Report with Syft
 
 on:
   workflow_dispatch:     #added
